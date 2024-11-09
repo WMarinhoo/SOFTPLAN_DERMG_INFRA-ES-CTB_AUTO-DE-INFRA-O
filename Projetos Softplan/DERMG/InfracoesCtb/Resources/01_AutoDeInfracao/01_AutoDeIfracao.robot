@@ -1,5 +1,5 @@
 * Settings *         
-Resource                                                                  ${CURDIR}/../../../Commons/login.robot
+Resource                                                                  ${CURDIR}/../../Commons/login.robot
 
 * Variables *
 # FRAMES
